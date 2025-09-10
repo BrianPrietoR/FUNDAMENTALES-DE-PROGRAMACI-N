@@ -1,0 +1,10 @@
+CC;56429540;Juan;Rodriguez
+TI;43921305;Pedro;Sanchez
+TI;82369179;Laura;Fernandez
+TI;99255082;Carla;Torres
+TI;45380262;Sofia;Perez
+CC;94753894;Juan;Diaz
+TI;67894969;Sofia;Gomez
+CC;29702661;Luis;Gomez
+CC;60241673;Laura;Diaz
+TI;29265946;Laura;Ramirez
