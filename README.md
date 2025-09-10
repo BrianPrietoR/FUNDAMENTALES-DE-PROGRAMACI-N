@@ -39,10 +39,5 @@ Si prefieres, ejecuta GenerateInfoFiles para que genere automáticamente la carp
 - Al terminar verás los archivos de salida en 'output/report_vendedores.csv' y 'output/report_productos.csv'
 
 
-6) Recomendaciones de evaluación y pruebas:
-- Verifica manualmente algunas ventas para asegurar que las multiplicaciones (precio*cantidad) sean correctas.
-- Revisa la consola para mensajes de archivos con formato inválido o productos desconocidos.
-- Para cambiar la cantidad de productos o vendedores generados, modifica las constantes en GenerateInfoFiles.main o pasa parámetros (se pueden agregar argumentos si lo deseas).
-
 
 */
