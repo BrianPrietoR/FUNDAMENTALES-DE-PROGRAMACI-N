@@ -1,0 +1,17 @@
+Reflexión sobre el desarrollo del proyecto.
+
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo de este programa, orientado a organizar las ventas de los trabajadores por producto y generar reportes en Excel individuales, se adquirieron aprendizajes significativos en varias áreas. En primer lugar, se profundizó en el manejo de archivos CSV y en la capacidad de procesar múltiples fuentes de datos de manera simultánea, garantizando coherencia y confiabilidad en la información consolidada. Asimismo, se desarrollaron destrezas en la limpieza y normalización de datos, lo cual resultó esencial para asegurar la calidad de los reportes.
+
+Otro aspecto importante fue la experiencia en la generación de archivos Excel automatizados, con información clara y estructurada para cada trabajador. Este proceso implicó comprender cómo organizar tablas, totales y subtotales de forma que los resultados fueran útiles y fáciles de interpretar. También se reforzaron conocimientos de programación modular y buenas prácticas de documentación, lo que facilitó la legibilidad y el mantenimiento del código.
+
+2. Posibles aplicaciones en la vida profesional
+
+Las destrezas adquiridas a lo largo del proyecto tienen aplicaciones directas en el ámbito profesional. En un contexto empresarial, la capacidad de consolidar y analizar datos provenientes de diversas fuentes es una necesidad frecuente, especialmente en áreas como ventas, finanzas, logística y gestión de talento humano. El aprendizaje en la automatización de reportes permitirá reducir tiempos de procesamiento, minimizar errores humanos y entregar información confiable para la toma de decisiones estratégicas.
+
+Además, el dominio en la creación de reportes personalizados puede aplicarse en proyectos futuros relacionados con la analítica de datos, inteligencia de negocios o sistemas de gestión empresarial. Estas competencias también refuerzan la capacidad de diseñar herramientas tecnológicas adaptadas a las necesidades específicas de una organización, lo que constituye un valor agregado en cualquier entorno laboral.
+
+3. Dificultades presentadas durante el desarrollo del proyecto
+
+A lo largo del proyecto surgieron diferentes dificultades que contribuyeron al proceso de aprendizaje. Una de ellas fue el manejo de múltiples archivos CSV con estructuras no siempre homogéneas, lo que exigió diseñar validaciones adicionales y mecanismos de corrección de datos. Asimismo, se presentaron retos en la estandarización de la información, particularmente en casos de registros duplicados o nombres de productos escritos de forma inconsistente.
